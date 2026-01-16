@@ -8,7 +8,7 @@ import {
 } from "react-native";
 import { SafeAreaView, SafeAreaProvider } from "react-native-safe-area-context";
 import { FontAwesome, Ionicons } from "@expo/vector-icons";
-import { styles } from "@/styles/_joinstyle"; // Ensure this path is correct
+import { styles } from "@/styles/_join"; // Ensure this path is correct
 import { HEROLOGOGREEN, GOOGLELOGO, FACEBOOKLOGO } from "@/constants";
 import { useRouter } from "expo-router";
 

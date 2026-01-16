@@ -1,6 +1,6 @@
 // styles/index.ts
 import { styles as mainStyles } from "./_mainstyle";
-import { styles as joinStyles } from "./_joinstyle";
+import { styles as joinStyles } from "./_join";
 
 // We export them so you can use them easily across the app
 export { mainStyles, joinStyles };
